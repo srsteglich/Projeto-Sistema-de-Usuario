@@ -1,7 +1,8 @@
 Funcionalidade do Projeto:
 	     Um sistema de cadastro é essencial para qualquer aplicação que é composta de inserir, ler(consultar), alterar e excluir os dados do usuário.
        
-       Isso permite autenticação para acessar a senha com criptografia para proteger a confidencialidade e integridade dos dados e os papéis têm permissões específicas associadas a nível de acesso.
+       Isso permite autenticação para acessar a senha com criptografia para proteger a confidencialidade e integridade dos dados 
+       e os papéis têm permissões específicas associadas a nível de acesso.
 
 
 Tecnologias Utilizadas:
